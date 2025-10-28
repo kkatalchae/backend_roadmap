@@ -57,6 +57,8 @@
 
 ## 계층별 데이터 단위 (PDU: Protocol Data Unit)
 
+![https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-OSI-7%EA%B3%84%EC%B8%B5-%EC%A0%95%EB%A6%AC](../images/osi_layer.png)
+
 | 단계 | OSI 계층 | 데이터 단위 이름 | 주요 역할 | 예시 헤더 정보 |
 | --- | --- | --- | --- | --- |
 | **7~5계층** | 애플리케이션/프레젠테이션/세션 | **데이터 (Data)** | 사용자의 실제 메시지 | “GET /index.html HTTP/1.1” |
@@ -94,3 +96,4 @@
 - https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/
 - https://brunch.co.kr/@swimjiy/47
 - https://jibinary.tistory.com/169#google_vignette
+- https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-OSI-7%EA%B3%84%EC%B8%B5-%EC%A0%95%EB%A6%AC
